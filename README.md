@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucascoquillat4
 - 👀 I’m mostly interested in front-end dev,
-- 🌱 I’m currently learning some basic JS and try to understand some php things,
+- 🌱 I’m currently learning some basic PHP,
 - 📫 You can contact me with my email: lcoquillat4@gmail.com
 - ⚡ Fun fact: I made my first Website when I was 11
 
