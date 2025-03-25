@@ -4,7 +4,7 @@
 - 🎓Student @ IIM Digital School
 - 👀 I’m mostly interested in front-end dev,
 - 🌱 I’m currently learning basic PHP / mySQL, 
-- 📫 You can contact me with my email: lcoquillat4@gmail.com
+- 📫 You can contact me with my email: lucascoquillat@edu.devinci.fr
 - ⚡ Fun fact: I made my first Website when I was 11
 
 <!---
