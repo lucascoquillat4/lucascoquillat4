@@ -1,3 +1,5 @@
+# Welcome to my github page !
+
 - 👋 Hi, I’m @lucascoquillat4
 - 👀 I’m mostly interested in front-end dev,
 - 🌱 I’m currently learning basic PHP / mySQL, 
