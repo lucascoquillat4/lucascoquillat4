@@ -1,6 +1,7 @@
 # Welcome to my github page !
 
 - 👋 Hi, I’m @lucascoquillat4
+- 🎓Student @ IIM Digital School
 - 👀 I’m mostly interested in front-end dev,
 - 🌱 I’m currently learning basic PHP / mySQL, 
 - 📫 You can contact me with my email: lcoquillat4@gmail.com
