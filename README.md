@@ -1,6 +1,6 @@
 # Welcome to my github page !
 
-- 👋 Hi, I’m @lucascoquillat4
+- 👋 Hi, I’m Lucas Coquillat
 - 🎓 Self-taught Student
 - 👀 I’m mostly interested in **_front-end dev_**, **_network Mgmt_** & **_cybersecurit__**
 - 🌱 I’m currently learning basic **_Next.js_** / **_React (+ advanced Tailwind)_**,
