@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lucas Coquillat
 - 🎓 Self-taught Student
-- 👀 I’m mostly interested in **_front-end dev_**, **_network Mgmt_** & **_cybersecurit__**
+- 👀 I’m mostly interested in **_front-end dev_**, **_network Mgmt_** & **_cybersecurity__**
 - 🌱 I’m currently learning basic **_Next.js_** / **_React (+ advanced Tailwind)_**,
 - 💻 Working on my **_Portfolio_** since **_2026/02/02_**
 - ⚡ Fun fact: I made my first Website when I was 11
