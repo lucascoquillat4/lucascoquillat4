@@ -1,10 +1,9 @@
 # Welcome to my github page !
 
 - 👋 Hi, I’m Lucas Coquillat
-- 🎓 Ecole42 Student
+- 🎓 **Ecole42** Student
 - 👀 I’m mostly interested in **_front-end dev_**, **_network Mgmt_** & **_cybersecurity__**
-- 🌱 I’m currently learning basic **_Next.js_** / **_React (+ advanced Tailwind)_**,
-- 💻 Working on my **_Portfolio_** since **_2026/02/02_**
+- 💻 Currently **managing** and **maintaining** websites for multiple clients
 - ⚡ Fun fact: I made my first Website when I was 11
   
 - 📫 You can contact me with my email: **lcoquillat4@gmail.com**
