@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lucas Coquillat
 - 🎓 **Ecole42** Piscine
-- 👀 I’m mostly interested in **_front-end dev_**, **_network Mgmt_** & **_cybersecurity__**
+- 👀 I’m mostly interested in **_front-end dev_**, **_network Mgmt_** & **_cybersecurity_**
 - 💻 Currently **managing** and **maintaining** websites for multiple clients
 - ⚡ Fun fact: I made my first Website when I was 11
   
