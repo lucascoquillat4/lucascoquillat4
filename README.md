@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I made my first Website when I was 11
   
 - 📫 You can contact me with my email: **lcoquillat4@gmail.com**
+- 🌐 Check out my portfolio: **https://lucas-coquillat.com**
 
 <!---
 lucascoquillat4/lucascoquillat4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
