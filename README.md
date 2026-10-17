@@ -1,5 +1,5 @@
 
-# Hi, I'm Lucas Coquillat 👋
+# Hi, I'm Lucas 👋
 
 I'm a self-taught developer and IT student at IIM Digital School, combining hands-on experience in website development and client maintenance with continuous learning through personal projects and online courses.
 
